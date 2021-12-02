@@ -13,7 +13,7 @@ pre-processing on spectral data.
   <img src="media\image2.png" style="width:4.37425in;height:3.27in" />
 </p>
 
-# **Mean Scatter Correction:**
+# **Multiplicative Scatter Correction:**
 
 <p align="center">
   # <img src="media\image3.png" style="width:4.37425in;height:3.27in" />
@@ -31,7 +31,7 @@ pre-processing on spectral data.
   <img src="media\image5.png" style="width:4.37425in;height:3.27in" />
 </p>
 
-# **Reflectance to absorbance + Mean Scatter Correction + Mean Center:**
+# **Reflectance to absorbance + Multiplicative Scatter Correction + Mean Center:**
 
 <p align="center">
   <img src="media\image6.png" style="width:4.37425in;height:3.27in" />
