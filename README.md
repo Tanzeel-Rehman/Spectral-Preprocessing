@@ -16,7 +16,7 @@ pre-processing on spectral data.
 # **Multiplicative Scatter Correction:**
 
 <p align="center">
-  # <img src="media\image3.png" style="width:4.37425in;height:3.27in" />
+  <img src="media\image3.png" style="width:4.37425in;height:3.27in" />
 </p>
 
 # **Mean Center:**
